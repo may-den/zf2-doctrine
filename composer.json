@@ -11,7 +11,7 @@
             "role": "Developer"
         }
     ],
-    "bin": ["bin/doctrine-cli"]
+    "bin": ["bin/doctrine-cli"],
     "require": {
         "php": ">=5.3.3",
         "symfony/yaml": "2.0.*"
