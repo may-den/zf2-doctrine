@@ -8,10 +8,13 @@ The official CLI looks for `config/application.config.php`. This wrapper looks f
 
 [Composer](http://getcomposer.org/):
 
+`"minimum-stability": "dev"` is required because `DoctrineORMModule` still has frequent updates.
+
 ```json
 {
+    "minimum-stability": "dev",
     "require": {
-        "heartsentwined/zf2-doctrine": "dev-master"
+        "heartsentwined/zf2-doctrine": "1.*"
     }
 }
 ```
