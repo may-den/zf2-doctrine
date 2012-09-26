@@ -2,7 +2,7 @@
 
 wrapper for DoctrineORMModule + DoctrineModule's CLI, tailored for yaml config files
 
-The official CLI looks for `config/application.config.php`. This wrapper looks for `config/application.yml`.
+The official CLI looks for `config/application.config.php`. This wrapper looks for `config/application.config.yml`.
 
 # Installation
 
