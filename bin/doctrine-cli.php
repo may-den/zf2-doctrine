@@ -1,6 +1,5 @@
 <?php
 use Heartsentwined\Yaml\Yaml;
-use Zend\ServiceManager\ServiceManager;
 use Zend\Mvc\Application;
 
 ini_set('display_errors', true);
