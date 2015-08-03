@@ -1,5 +1,5 @@
 {
-    "name": "heartsentwined/zf2-doctrine",
+    "name": "may-den/zf2-doctrine",
     "description": "wrapper for DoctrineORMModule + DoctrineModule's CLI, tailored for yaml config files",
     "license": "GPL-3.0",
     "keywords": ["cli", "zf2", "doctrine"],
@@ -14,7 +14,7 @@
     "bin": ["bin/doctrine-cli"],
     "require": {
         "php": ">=5.3.3",
-        "heartsentwined/yaml": "1.*",
+        "may-den/yaml": "1.*",
         "doctrine/doctrine-orm-module": "dev-master"
     }
 }
