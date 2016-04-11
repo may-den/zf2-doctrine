@@ -14,7 +14,7 @@
     "bin": ["bin/doctrine-cli"],
     "require": {
         "php": ">=5.3.3",
-        "may-den/yaml": "dev-master",
+        "may-den/yaml": "1.0.*",
         "doctrine/doctrine-orm-module": "0.7.*"
     }
 }
