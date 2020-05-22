@@ -11,10 +11,16 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:may-den/php-yaml.git"
+        }
+    ],
     "bin": ["bin/doctrine-cli"],
     "require": {
-        "php": ">=5.3.3",
+        "php": "^7.4",
         "may-den/yaml": "1.0.*",
-        "doctrine/doctrine-orm-module": "0.7.*"
+        "doctrine/doctrine-orm-module": "~1.1.6"
     }
 }
