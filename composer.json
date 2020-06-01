@@ -21,6 +21,6 @@
     "require": {
         "php": "^7.4",
         "may-den/yaml": "1.0.*",
-	"doctrine/doctrine-orm-module": "~3.0.0"
+        "doctrine/doctrine-orm-module": "~3.0.0"
     }
 }
